@@ -16,3 +16,10 @@ body {
 .container h1 {
     font-size: 24px;
 }
+
+.cabecera {
+    background: #33a;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+}

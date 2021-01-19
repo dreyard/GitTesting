@@ -4,6 +4,7 @@ body {
     font-family: 'Franklin Gothic Medium';
     margin: 0;
     padding: 0;
+    background-color: darkgrey;
 }
 .container {
     width: 70%;
@@ -11,6 +12,7 @@ body {
     text-align: left;
     border: 5px solid lightblue;
     margin: 0 auto;
+    background-color: white;
 }
 
 .container h1 {
@@ -19,7 +21,9 @@ body {
 
 .cabecera {
     background: #33a;
+    height: 5%;
     color: white;
     font-weight: bold;
     margin: 0;
+    text-align: left;
 }

@@ -23,3 +23,9 @@ body {
     font-weight: bold;
     margin: 0;
 }
+
+#pruebafooter{
+    margin-top: 10%;
+    background-color: black;
+    color: white;
+}

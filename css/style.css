@@ -1,5 +1,5 @@
 body {
-    color: black;
+    color: orange;
     text-align: left;
     font-family: 'Franklin Gothic Medium';
     margin: 0;
@@ -9,7 +9,7 @@ body {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 5px solid gray;
+    border: 5px solid green;
     margin: 0 auto;
 }
 
